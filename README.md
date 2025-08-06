@@ -74,7 +74,7 @@ bitbucket-mcp-tutorial/
 
 ### 1. Clone and Setup
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/shibyan-ai-engineer/bitbucket-mcp-tutorial
 cd bitbucket-mcp-tutorial
 pip install -r requirements.txt
 ```
